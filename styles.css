@@ -1,0 +1,17 @@
+
+.btn-pink {
+    background-color: hotpink;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.btn-pink:hover {
+    background-color: deeppink;
+    color: #fff;
+}
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
